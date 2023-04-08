@@ -5,7 +5,7 @@ Apresentaremos alguns conceitos básicos da linguagem de programação Python.
 
 Python é uma linguagem de programação de alto nível, interpretada e orientada a objetos, que é fácil de aprender e entender. A sintaxe clara e legível de Python permite que os desenvolvedores escrevam código de maneira mais eficiente e produtiva. Além disso, a grande variedade de bibliotecas disponíveis em Python torna possível desenvolver aplicações em várias áreas, como desenvolvimento web, científico e de jogos.
 
-#### Abordaremos os seguintesconceitos básicos de Python:
+>Abordaremos os seguintesconceitos básicos de Python:
 
 # Variáveis e tipos de dados:
 
